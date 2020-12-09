@@ -1,5 +1,5 @@
 # cards-flexbox
-### Emoji Mood Slider - 
+### Emoji Mood Slider 
 #Using: HTML | SCSS | GULP | JS
 
 <p align='center'> Demo on: </p>
